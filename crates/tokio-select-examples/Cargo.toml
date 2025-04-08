@@ -5,7 +5,7 @@ edition = "2021"
 
 [dependencies]
 ansi_term = "0.12.1"
-tokio = { version = "1.35.1", features = [
+tokio = { version = "1.38.2", features = [
     "macros",
     "rt-multi-thread",
     "sync",
